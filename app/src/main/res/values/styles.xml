@@ -1,0 +1,13 @@
+<resources>
+    <style name="CalculatorButton">
+        <item name="android:layout_margin">8dp</item> <!-- Margin around buttons -->
+        <item name="android:layout_width">0dp</item> <!-- Margin around buttons -->
+        <item name="android:layout_height">wrap_content</item> <!-- Margin around buttons -->
+        <item name="android:backgroundTint">#333333</item> <!-- Dark button background -->
+        <item name="android:textColor">#FFFFFF</item> <!-- White text -->
+        <item name="android:textSize">18sp</item> <!-- Text size -->
+        <item name="android:gravity">center</item> <!-- Center text -->
+        <item name="android:elevation">4dp</item> <!-- Shadow effect for buttons -->
+        <item name="android:layout_columnWeight">1</item> <!-- Shadow effect for buttons -->
+    </style>
+</resources>
